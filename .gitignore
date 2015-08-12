@@ -1,0 +1,14 @@
+*.o
+applet/
+*~
+*.orig
+*.rej
+*.bak
+
+# IDE stuff
+atlassian-ide-plugin.xml
+*.iml
+*.idea
+
+# Mac Stuff
+.DS_Store
